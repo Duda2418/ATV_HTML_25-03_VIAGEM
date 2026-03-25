@@ -2,8 +2,6 @@
 
 ExploreMundo é um site de viagens que apresenta destinos turísticos pelo mundo, fornece informações sobre a empresa e oferece um formulário de contato. O objetivo é criar uma experiência interativa, organizada e visualmente atraente para os usuários que desejam explorar o mundo.
 
-O site foi construído com HTML e CSS puros, usando técnicas modernas como CSS Grid, Flexbox e rolagem suave para navegação interna.
-
  -Funcionalidades
 Página principal com menu de navegação para as seções: Início, Destinos, Sobre, Contato
 Seção Destinos:
@@ -33,20 +31,8 @@ ExploreMundo/
 │   ├── japao.jpg
 │   ├── italia2.png
 │   └── mapa.jpg
-└── README.md           # Este arquivo
-⚙️ Tecnologias Utilizadas
-HTML5 – Estrutura semântica do site
-CSS3 – Estilização, grid, flexbox e responsividade
-Scroll Behavior – Rolagem suave para navegação interna
-Design responsivo, layout moderno e alinhamento centralizado de elementos
-- Como Usar
-Clone ou baixe o repositório:
-git clone https://github.com/seuusuario/exploremundo.git
-Abra o arquivo destinos.html ou index.html em um navegador moderno (Chrome, Edge, Firefox).
-Navegue pelo menu para ir até as seções:
-Clique em Destinos para ver os cards de viagens
-Clique em Sobre para ler informações sobre a empresa
-Clique em Contato para enviar uma mensagem ou ver localização
+└── README.md           # Este arquiv
+
 
 - Observações
 Todas as imagens devem estar na pasta images/ para que o site carregue corretamente
