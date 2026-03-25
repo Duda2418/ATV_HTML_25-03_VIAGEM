@@ -48,7 +48,7 @@ Clique em Destinos para ver os cards de viagens
 Clique em Sobre para ler informações sobre a empresa
 Clique em Contato para enviar uma mensagem ou ver localização
 
-📌 Observações
+- Observações
 Todas as imagens devem estar na pasta images/ para que o site carregue corretamente
 Teste o site em diferentes tamanhos de tela para garantir responsividade
 Para tornar o formulário funcional, você precisará integrar com back-end ou serviços de envio de e-mail
